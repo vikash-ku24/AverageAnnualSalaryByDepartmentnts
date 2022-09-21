@@ -7,7 +7,7 @@ By moving your cursor you can not only find the average annual salary of the cou
 
 This dashboard contains the map of New York State(US) through which you can navigate to various countries and see the beautiful analysis of their average annual salary along with the department of that specific country.
 
-Departments:-
+# Departments
 1. Finance and Insurance
 2. Management of Companies
 3. Manufacturing
